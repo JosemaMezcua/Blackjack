@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<juego>
+    <mano>
+        <cartas>
+            <carta>
+                <mostarNumero>4</mostarNumero>
+            </carta>
+            <carta>
+                <mostarNumero>7</mostarNumero>
+            </carta>
+            <carta>
+                <mostarNumero>3</mostarNumero>
+            </carta>
+        </cartas>
+        <valorMano>14</valorMano>
+    </mano>
+</juego>
